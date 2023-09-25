@@ -1,10 +1,8 @@
-- 👋 Hi, I'm Yashodeep!
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...coding,mechanical engineering, finance and many more things🚀
-- 💞️ I’m looking to collaborate on ...AI,ML applications in field of engineering 
-- 📫 How to reach me ...via Github, Linkdln 
+👋 Hello, I'm Yashodeep!
+- 👀 Passionate about coding, data science, space, cars, and more.
+- 🌱 Constantly expanding my knowledge in coding, finance, and data science.
+- 💞️ Seeking collaborations in AI and ML applications for engineering.
+- 📫 Connect with me on GitHub and LinkedIn to explore projects and ideas in these fields. 🚀🔗
 
-<!---
-yashodeep2002/yashodeep2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
